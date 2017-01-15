@@ -16,4 +16,4 @@ Bu basit fonksiyon sayesinde, kişinin adı, soyadı, doğum yılı ve T.C. kiml
 <a href="https://github.com/batuhankok/php-turkish-ide-number-validator#live-screenshot">Önizlemeyi görmek için tıklayın!</a>
 
 ## Live Screenshot
-![SS](https://github.com/batuhankok/php-turkish-ide-number-validator/blob/master/screenn.gif?raw=true)
+![SS](https://github.com/batuhankok/php-turkish-ide-number-validator/blob/master/screen.gif?raw=true)
